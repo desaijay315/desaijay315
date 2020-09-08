@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Bachelors of Engineering from Mumbai University.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
@@ -11,7 +11,7 @@
 
  
 - 🌐 &nbsp; JavaScript | Bootstrap | Node.js | ReactJS
-- 💻 &nbsp; Devops | CI/CD | AWS | AZURE
+- 💻 &nbsp; DevOps | Cloud | CI/CD | AWS | AZURE
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Git | Markdown
 
